@@ -12,8 +12,8 @@ This curriculum heavily realies on [NodeSchool.io](http://nodeschool.io) for the
 It is *highly recommended* that your `fork` this repository, keep track of your learning progress by adding `x`es inside the `[ ]` checkboxes and committing them to your own repository. 
 
 ### New to Collaborative & Open Source Programming?
-- [ ] To collaborate with others and track your own progress, you'll need to create a GitHub account. [Create an account](https://github.com/)
-- [ ] Install a Git client,
+- [x] To collaborate with others and track your own progress, you'll need to create a GitHub account. [Create an account](https://github.com/)
+- [x] Install a Git client,
   - Simple:
     - [GitHub for Windows](https://windows.github.com/) 
     - [GitHub for Mac](https://mac.github.com/) 
@@ -21,13 +21,13 @@ It is *highly recommended* that your `fork` this repository, keep track of your 
     - [GitExtensions (Windows)](http://sourceforge.net/projects/gitextensions/)
     - [Tower (Mac)](http://www.git-tower.com/)
     - [Github Desktop (Mac/Windows)](https://desktop.github.com/) *In pre-release*
-- [ ] Now you can `fork` this repo, by using the `fork` button on the top right hand of the GitHub page and start tracking your progress.
+- [x] Now you can `fork` this repo, by using the `fork` button on the top right hand of the GitHub page and start tracking your progress.
 
 ### Pre-Requisites
-- [ ] Install Node.js, so you can run the self-learning tools: [https://nodejs.org/](https://nodejs.org/)
+- [x] Install Node.js, so you can run the self-learning tools: [https://nodejs.org/](https://nodejs.org/)
   - If you're running on Windows, check out these [tips](https://johnpapa.net/tips-for-running-node-and-npm-on-windows/).
-- [ ] Visit and familiarize yourself with [npm](https://www.npmjs.com/)
-- [ ] Get a good text editor/IDE.
+- [x] Visit and familiarize yourself with [npm](https://www.npmjs.com/)
+- [x] Get a good text editor/IDE.
   - Text Editor
     - [Atom](http://www.atom.io/)
     - [Sublime Text](http://www.sublimetext.com/3)
@@ -47,11 +47,11 @@ The Internet is a vast cache of information and if you know how to navigatge it 
 - Specific questions are far more likely to get answered, than general/generic questions.
 
 ### Absolute Beginners
-- [ ] Don't how to work the console, command line, CLI or bash? Start with the basics [here](https://swcarpentry.github.io/shell-novice/01-intro/)
-- [ ] Open up command line/console. Type in `node`, do you see `> `? If yes *great*, hit `Ctrl+C` to terminate the currently running `node` process. If no, then see `How to ask for help`.
-- [ ] Type in `npm`, do you see `Usage: npm <command>`?
+- [x] Don't how to work the console, command line, CLI or bash? Start with the basics [here](https://swcarpentry.github.io/shell-novice/01-intro/)
+- [x] Open up command line/console. Type in `node`, do you see `> `? If yes *great*, hit `Ctrl+C` to terminate the currently running `node` process. If no, then see `How to ask for help`.
+- [x] Type in `npm`, do you see `Usage: npm <command>`?
 - You're ready to start learning, using the self guided workshoppers. Good luck! 
-- [ ] Learn how to use Git and GitHub basics.
+- [x] Learn how to use Git and GitHub basics.
   - Run `npm install -g git-it`
   - Then `git-it`
   - Additional help http://jlord.us/git-it/
